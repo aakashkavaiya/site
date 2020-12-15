@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "Lohit";
+    src: url('https://aakashkavaiya.github.io/site/Lohit-Gujarati.ttf')
+
+}
+
+p,div,span,li,ol,ul,a,a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,html,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var
+{
+font-family: "Lohit";
+}
+
+h1,h2,h3,h4,h5,h6,h7
+
+{
+font-family: "Lohit";
+}
