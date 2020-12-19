@@ -3,16 +3,6 @@
     src: url('https://aakashkavaiya.github.io/site/Lohit-Gujarati.ttf')
 
 }
-@font-face{
-    font-family: "GUJ1";
-    src: url('https://aakashkavaiya.github.io/site/guj-shree.TTF')
-
-}
-.guj1
-{
-
-font-family: 'GUJ1;
-}
 
 p,div,span,li,ol,ul,a,a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,html,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var
 {
